@@ -18,8 +18,8 @@ Or do we need another VCS to write a document for ourselves?
 #### Summary
 
 This context is about a language that is used in computer. It is called markdown. There are various ways to write in different forms.
-*: This is used to emphasize or to make the words bold. #: THis differentiates the headings. *: This is also used in listing in bullets.
-"#": This is also used in listing in numbers. In order to make a link, there should be <,> these brackets.
+'*': This is used to emphasize or to make the words bold. '#': This differentiates the headings. '*': This is also used in listing in bullets.
+'#': This is also used in listing in numbers. In order to make a link, there should be <,> these brackets.
 
 #### Question
 
